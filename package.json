@@ -1,0 +1,25 @@
+{
+  "name": "nodeWordGuess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Letter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timsmith78/nodeWordGuess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timsmith78/nodeWordGuess/issues"
+  },
+  "homepage": "https://github.com/timsmith78/nodeWordGuess#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "datamuse": "^1.0.5",
+    "inquirer": "^6.0.0"
+  }
+}
